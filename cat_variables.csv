@@ -1,0 +1,26 @@
+MSZoning,Street,Alley,Neighborhood,Condition1,BldgType,HouseStyle,OverallQual,YearBuilt,YearRemodAdd,RoofStyle,MasVnrArea,Foundation,BsmtQual,TotalBsmtSF,CentralAir,Electrical,GrLivArea,FullBath,TotRmsAbvGrd,Fireplaces,GarageType,GarageCars,GarageArea,PavedDrive,Fence,SaleCondition
+C (all),Grvl,Grvl,Blmngtn,Artery,1Fam,1.5Fin,10,1,1,Flat,1,BrkTil,Ex,1,N,FuseA,1,1,1,1,2Types,1,1,Y,GdPrv,Abnorml
+FV,Pave,Pave,Blueste,Feedr,2fmCon,1.5Unf,9,1,1,Gable,1,CBlock,Fa,1,Y,FuseF,1,1,1,1,Attchd,1,1,P,GdWo,AdjLand
+RH,Pave,NA,BrDale,Norm,Duplex,1Story,8,1,1,Gambrel,1,PConc,Gd,1,Y,FuseP,1,1,1,1,Basment,1,1,N,MnPrv,Alloca
+RL,Pave,NA,BrkSide,PosA,Twnhs,2.5Fin,7,1,1,Hip,1,Slab,NA,1,Y,Mix,1,1,1,1,BuiltIn,1,1,N,MnWw,Family
+RM,Pave,NA,ClearCr,PosN,TwnhsE,2.5Unf,6,1,1,Mansard,1,Stone,TA,1,Y,NA,1,1,1,1,CarPort,1,1,N,NA,Normal
+C (all),Pave,NA,CollgCr,RRAe,1Fam,2Story,5,1,1,Shed,1,Wood,NA,1,Y,SBrkr,1,1,1,1,Detchd,1,1,N,NA,Partial
+FV,Pave,NA,Crawfor,RRAn,2fmCon,SFoyer,4,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RH,Pave,NA,Edwards,RRNe,Duplex,SLvl,3,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RL,Pave,NA,Gilbert,RRNn,Twnhs,1.5Fin,2,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RM,Pave,NA,IDOTRR,Artery,TwnhsE,1.5Unf,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+C (all),Pave,NA,MeadowV,Feedr,1Fam,1Story,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+FV,Pave,NA,Mitchel,Norm,2fmCon,2.5Fin,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RH,Pave,NA,NAmes,PosA,Duplex,2.5Unf,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RL,Pave,NA,NoRidge,PosN,Twnhs,2Story,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RM,Pave,NA,NPkVill,RRAe,TwnhsE,SFoyer,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+C (all),Pave,NA,NridgHt,RRAn,1Fam,SLvl,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+FV,Pave,NA,NWAmes,RRNe,2fmCon,1.5Fin,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RH,Pave,NA,OldTown,RRNn,Duplex,1.5Unf,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RL,Pave,NA,Sawyer,Artery,Twnhs,1Story,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RM,Pave,NA,SawyerW,Feedr,TwnhsE,2.5Fin,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+C (all),Pave,NA,Somerst,Norm,1Fam,2.5Unf,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+FV,Pave,NA,StoneBr,PosA,2fmCon,2Story,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RH,Pave,NA,SWISU,PosN,Duplex,SFoyer,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RL,Pave,NA,Timber,RRAe,Twnhs,SLvl,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
+RM,Pave,NA,Veenker,RRAn,TwnhsE,1.5Fin,1,1,1,Shed,1,Wood,NA,1,Y,Mix,1,1,1,1,NA,1,1,N,NA,Partial
